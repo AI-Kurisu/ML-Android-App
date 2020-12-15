@@ -19,7 +19,7 @@ Android Studio released version
 
 
 ### Installation
-Download the project zip file and decompress it, then import project in Android Studio
+Download the project zip file to your local directory and decompress it, then import project in Android Studio
 
 
 <!-- ACKNOWLEDGEMENTS -->
