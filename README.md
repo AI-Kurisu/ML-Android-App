@@ -25,4 +25,4 @@ Download the project zip file and decompress it, then import project in Android 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Github]
-* Stack Overflow
+* [Stack Overflow]
